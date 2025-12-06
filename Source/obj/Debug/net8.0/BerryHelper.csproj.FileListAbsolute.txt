@@ -1,0 +1,12 @@
+E:\SteamLibrary\steamapps\common\Celeste\Mods\BerryHelper\Source\bin\Debug\net8.0\BerryHelper.deps.json
+E:\SteamLibrary\steamapps\common\Celeste\Mods\BerryHelper\Source\bin\Debug\net8.0\BerryHelper.dll
+E:\SteamLibrary\steamapps\common\Celeste\Mods\BerryHelper\Source\bin\Debug\net8.0\BerryHelper.pdb
+E:\SteamLibrary\steamapps\common\Celeste\Mods\BerryHelper\Source\obj\Debug\net8.0\BerryHelper.csproj.AssemblyReference.cache
+E:\SteamLibrary\steamapps\common\Celeste\Mods\BerryHelper\Source\obj\Debug\net8.0\BerryHelper.GeneratedMSBuildEditorConfig.editorconfig
+E:\SteamLibrary\steamapps\common\Celeste\Mods\BerryHelper\Source\obj\Debug\net8.0\BerryHelper.AssemblyInfoInputs.cache
+E:\SteamLibrary\steamapps\common\Celeste\Mods\BerryHelper\Source\obj\Debug\net8.0\BerryHelper.AssemblyInfo.cs
+E:\SteamLibrary\steamapps\common\Celeste\Mods\BerryHelper\Source\obj\Debug\net8.0\BerryHelper.csproj.CoreCompileInputs.cache
+E:\SteamLibrary\steamapps\common\Celeste\Mods\BerryHelper\Source\obj\Debug\net8.0\BerryHelper.dll
+E:\SteamLibrary\steamapps\common\Celeste\Mods\BerryHelper\Source\obj\Debug\net8.0\refint\BerryHelper.dll
+E:\SteamLibrary\steamapps\common\Celeste\Mods\BerryHelper\Source\obj\Debug\net8.0\BerryHelper.pdb
+E:\SteamLibrary\steamapps\common\Celeste\Mods\BerryHelper\Source\obj\Debug\net8.0\ref\BerryHelper.dll
